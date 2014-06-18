@@ -1,5 +1,5 @@
 /**
- * @Author dongyajie@jd.com
+ * @Author dongyajie
  * @desc 拖动排序
  * 
  * 
